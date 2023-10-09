@@ -4,7 +4,7 @@ This project had been comissioned by [Kurt Beheydt](https://github.com/kurtbehey
 
 # REV 00
 
-Based on the circuit used in the {Fri3d Camp Badge of 2018](https://github.com/Fri3dCamp/badge/tree/master) using a TP4056 charger and a SX1308 boost convertor.
+Based on the circuit used in the [Fri3d Camp Badge of 2018](https://github.com/Fri3dCamp/badge/tree/master) using a TP4056 charger and a SX1308 boost convertor.
 
 ![PCBs assembled](media/CECILA_00_TOP-BOT.png)
 

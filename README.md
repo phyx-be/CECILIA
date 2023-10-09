@@ -1,6 +1,6 @@
 # CECILIA
 For some projects we needed a 5V power supply from a lithium battery source that would not disable itself when there's not enough load attached. Not finding what we needed, we opted to build our own.
-This project had been comissioned by [Kurt Beheydt](https://github.com/kurtbeheydt)
+This project had been commissioned by [Kurt Beheydt](https://github.com/kurtbeheydt)
 
 # REV 00
 
